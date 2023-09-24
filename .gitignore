@@ -1,0 +1,6 @@
+.terraform/
+*terraform.tfstate*
+tfplan
+kubeconfig.yml
+*.log
+secrets*
